@@ -6,9 +6,12 @@
     "bootstrap": "^4.1.3",
     "eslint-config-airbnb-base": "^13.1.0",
     "firebase": "^5.7.0",
+    "leaflet": "^1.4.0",
+    "mapbox-gl-leaflet": "0.0.3",
     "node-sass": "^4.11.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-leaflet": "^2.2.0",
     "react-scripts": "2.1.1",
     "reactstrap": "^6.5.0"
   },
